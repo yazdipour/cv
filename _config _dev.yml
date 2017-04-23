@@ -1,0 +1,27 @@
+author: Mohammad Hossein Salari
+
+# edit this section with your information
+# biomadeira.github.io - all contents run on /vitae/
+# for a normal use at the base of the server change it to "/"
+baseurl: "/cv"
+url: "http://mh-salari.github.io"
+
+title: Mohammad Hossein Salari's Resume
+name: Mohammad Hossein Salari
+email: admin@mh-salari.me
+email_full: mailto:admin@mh-salari.me
+website: mh-salari.me
+website_full: http://mh-salari.me
+github: mh-salari
+twitter: mh_salari
+tel: +98 917-804-4665
+tel_full: tel:+989176324665
+#google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+#address: Teharn,iran
+#postcode: EH3 5BL
+city: Teharn
+country: Iran
+#google_analytics: UA-69300817-1
+
+# needed for travis-ci build
+exclude: [vendor]
