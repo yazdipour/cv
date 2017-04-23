@@ -3,7 +3,7 @@ author: Mohammad Hossein Salari
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: "/cv"
+baseurl: "/cv/"
 url: "http://mh-salari.github.io"
 
 title: Mohammad Hossein Salari's Resume
