@@ -1,7 +1,4 @@
 author: Mohammad Hossein Salari
-
-# edit this section with your information
-# biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 #baseurl: /cv
 url: http://mh-salari.me
@@ -15,7 +12,7 @@ website_full: http://mh-salari.me
 github: mh-salari
 twitter: mh_salari
 tel: +98 917-804-4665
-tel_full: tel:+989176324665
+tel_full: tel:+989178044665
 #google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 #address: Teharn,iran
 #postcode: EH3 5BL
