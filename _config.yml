@@ -1,7 +1,7 @@
 author: Mohammad Hossein Salari
 # for a normal use at the base of the server change it to "/"
 
-baseurl: /
+#baseurl: /
 url: http://cv.mh-salari.me
 
 title: Mohammad Hossein Salari's Resume
