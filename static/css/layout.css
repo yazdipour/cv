@@ -31,10 +31,10 @@ p, address {
 }
 
 .me {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border-radius: 50px;
-    -webkit-border-radius: 50px;
+    -webkit-border-radius: 75px;
     -moz-border-radius: 50px;
     margin-bottom: 20px;
 }
